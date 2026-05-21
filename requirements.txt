@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+customtkinter>=5.2.2
+Pillow>=10.0.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+ursina>=5.3.0
